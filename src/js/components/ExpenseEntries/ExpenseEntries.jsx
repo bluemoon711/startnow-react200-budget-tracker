@@ -1,8 +1,8 @@
 import React from 'react';
 
 export default class ExpenseEntries extends React.Component {
-    constructor(pros) {
-        super(pops);
+    constructor(props) {
+        super(props);
     }
 
     render() {
